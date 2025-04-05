@@ -3,4 +3,4 @@ Hi, in this repository, you will See Complete details about the high-range LoRa 
 
 Note: The baud rate for the LoRa E32 is 9600.
 
-![image alt]([mage_url](https://github.com/electronicsstudio/HR_LoRa-E22-400T37S/blob/1d01837e020c430fd348f18b41889bce77238948/E22-400T37S%20image.jpg))
+
